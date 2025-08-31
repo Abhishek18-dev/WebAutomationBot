@@ -19,6 +19,16 @@ Both versions were created by **Abhishek** for **educational and ethical purpose
 - Saves screenshots for reference.
 - Provides both dynamic and static approaches.
 
+
+---
+
+
+## ⚠️ Note
+
+Trello’s UI may change in the future. If that happens, some parts of the bot (like selectors or XPaths) may need to be updated to continue working.
+
+Always keep Chrome and ChromeDriver updated to the same version.
+
 ---
 
 ## 🔧 Requirements
@@ -26,17 +36,17 @@ Both versions were created by **Abhishek** for **educational and ethical purpose
 - Google Chrome installed
 - ChromeDriver (same version as your Chrome)
 
-### Install dependencies
+## Install dependencies
 Create a file named `requirements.txt` with the following content:
 ```txt
-selenium==4.23.1 ```
+selenium==4.23.1 
 
 ```Then install using:
 
-pip install -r requirements.txt ```
+pip install -r requirements.txt 
 
 
-## 📂Project Structure
+## 📂 Project Structure
 .
 ├── dynamic_bot.py       # Dynamic version (recommended)
 ├── static_bot.py        # Static version
