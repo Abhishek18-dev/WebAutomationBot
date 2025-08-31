@@ -29,6 +29,8 @@ Trello’s UI may change in the future. If that happens, some parts of the bot (
 
 Always keep Chrome and ChromeDriver updated to the same version.
 
+You can do the same for other websites , you just have do some UI changes which are relevent for that websites.
+
 ---
 
 ## 🔧 Requirements
