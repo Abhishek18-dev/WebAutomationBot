@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+
+# ChromeDriver binaries
+chromedriver.exe
+chromedriver-win64/
+
+# Ignore screenshots/downloads folder
+downloads/screenshots/
+
+# Ignore config if it has sensitive info
+config_real.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings (optional)
+.vscode/

@@ -1,0 +1,6 @@
+{
+  "USERNAME": "your-email@example.com",
+  "PASSWORD": "your-password",
+  "BOARD_NAME": "Your Trello Board",
+  "TASK_NAME": "Sample automated task"
+}
